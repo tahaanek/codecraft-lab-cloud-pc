@@ -1,5 +1,5 @@
 {
-  "name": "Cloud PC",
+  "name": "Code Craft Lab Cloud PC",
   "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
   "features": {
     "ghcr.io/devcontainers/features/desktop-lite:1": {}
